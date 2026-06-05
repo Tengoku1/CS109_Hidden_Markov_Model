@@ -1,2 +1,2 @@
-# CS109_Causality_Counterfactual_Model
-This is my CS109 Project made using Python and various imports from scikitlearn and pandas. This project is based on the theory of counterfactuals and how they are used in public settings to determine fault. My model is able to predict opinion and court decsions at a 62% rate.
+# CS109_Hidden_Markov_Model
+This is my CS109 Project made using Python and various imports from scikitlearn and pandas. This project is based on the theory of Hidden Markov Models and how they can be used to predict on longitudal data how a disease would transition throughout many years. My model was able to accuractly assess whether a transtion would occur at a 80% accuracy rating. Additionally, I included a Monte Carlo model to reduce uncertainty based on my algorithm. 
